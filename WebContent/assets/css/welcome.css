@@ -1,0 +1,33 @@
+@charset "ISO-8859-1";
+
+body{
+	background-image:url(../images/books3.jpg);	
+	background-size: cover;	
+}
+
+.mx-auto {
+ margin-right: auto !important;
+ margin-left: auto !important;
+}
+
+
+#tablelist{
+	width:70%; 
+    margin-left:15%; 
+    margin-right:15%;
+    margin-top: 10%;
+    opacity: .8;
+}
+
+#addbutton{
+	margin-left:15%; 
+    margin-right:15%;    
+}
+
+#showbutton{
+	width:9.5%;	
+	padding:0.45%;
+	margin-left:25%; 
+    margin-right:20%;
+    margin-top:-7.3%;
+}
