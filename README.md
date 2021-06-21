@@ -1,7 +1,7 @@
 # login_servletJsp
 
 Description:
-Bookstore with login and register.
+StudentManagentSystem with login and register.
 
 Technologies used:
 JAVA Servelets + JSP + JSTL + Maven + JDBC + MYSQL + Boostrap + CSS
