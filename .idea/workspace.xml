@@ -9,94 +9,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56fb2add-02f6-4caa-b82b-a99d665acfad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/servletjsp_project_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/sms_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/sms_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/fc687f64-88ba-460d-a7f3-279f96b3f130.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/fc687f64-88ba-460d-a7f3-279f96b3f130/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/fc687f64-88ba-460d-a7f3-279f96b3f130/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/fc687f64-88ba-460d-a7f3-279f96b3f130/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/fc687f64-88ba-460d-a7f3-279f96b3f130/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/.jsdtscope" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.component" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.validation.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/add.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/assets/css/add.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/assets/css/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/assets/css/register.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/assets/css/welcome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/assets/images/books1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/assets/images/books2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/assets/images/books3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/assets/images/booksLogin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/register.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/update.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/welcome.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/login/Login.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/login/Logout.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/com/login/dao/LoginDAO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/servletjsp_project_war_exploded/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/servletjsp_project_war_exploded/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/servletjsp_project_war_exploded/WEB-INF/lib/mysql-connector-java-8.0.16.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/servletjsp_project_war_exploded/WEB-INF/lib/protobuf-java-3.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images_readme/Login.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images_readme/Signup.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images_readme/Welcome.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images_readme/edit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.annotation.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.ejb.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.jms.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.persistence.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.resource.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.transaction.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servlet.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servletjsp-project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/login/controller/DBConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/login/controller/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/login/controller/LogoutController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/login/controller/RegisterController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/login/controller/StudentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/login/dao/DAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/login/dao/LoginDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/login/dao/RegisterDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/login/dao/RegisterDAOImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/login/dao/StudentDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/login/dao/StudentDAOImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/login/model/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/login/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/DAOException.java" afterDir="false" />
+    <list default="true" id="56fb2add-02f6-4caa-b82b-a99d665acfad" name="Default Changelist" comment="Initial Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images_readme/Login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images_readme/Signup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images_readme/Welcome.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images_readme/edit.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,6 +69,17 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tomcat 9.0.36" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.36" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/sms_war_exploded/" />
       <option name="UPDATING_POLICY" value="restart-server" />
@@ -252,7 +181,16 @@
       <workItem from="1624232620593" duration="4495000" />
       <workItem from="1624237687385" duration="6094000" />
       <workItem from="1624280666640" duration="1244000" />
+      <workItem from="1624281958504" duration="2764000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1624282265356</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1624282265356</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,5 +206,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
 </project>
